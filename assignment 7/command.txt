@@ -1,0 +1,16 @@
+1.netbins 8.2 download from net
+
+service   servlet   client
+
+file - new-java web-web application-projectname
+
+glassfishserver-java eee 7
+
+assignment7-new-web service-
+
+web-servies-add opearation
+
+create new-calculatorwebserviceclient-index.html-windows-pallete-form
+
+
+webserviceclient

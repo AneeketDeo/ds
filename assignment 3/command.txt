@@ -1,0 +1,3 @@
+To run the code follow the steps
+step 1: pip install mpi4py numpy
+step 2: mpirun -np <number_of_processors> python DistributedSum.py
